@@ -2,5 +2,5 @@
 2. install git 
 3. atur config ke github / git config
 4. buat project baru / git init
-5. buat perubahan / git add / git commit -m
-6. kirim ke github / git push
+5. buat perubahan / git add . / git commit -m
+6. kirim ke github / git push -u origin main
